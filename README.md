@@ -38,8 +38,7 @@ This project is purely fictional and created for entertainment purposes. It is n
 ![Warning](https://static.vecteezy.com/system/resources/thumbnails/017/172/379/small/warning-message-concept-represented-by-exclamation-mark-icon-exclamation-symbol-in-triangle-png.png)
 
 ## Contributors
-- [Gabriel Martins](https://www.linkedin.com/in/gabriel-martins-nascimento-270b171a2/) - Chief AI Enthusiast
-
+• [Gabriel Martins](https://www.linkedin.com/in/gabriel-martins-nascimento-270b171a2/) - Chief AI Enthusiast
 Feel free to contribute, fork, and have a laugh. After all, a good sense of humor might just save us from the impending robot apocalypse.
 
 **Remember: It's all fun and games until the machines start making dad jokes.**
